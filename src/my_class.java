@@ -4,6 +4,7 @@ public class my_class {
         int roy= 24;
         System.out.println("naomi is the best");
         System.out.print(naomi);
+        System.out.print(roy);
 
     }
 }
