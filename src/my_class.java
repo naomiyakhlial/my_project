@@ -5,6 +5,7 @@ public class my_class {
         System.out.println("naomi is the best");
         System.out.print(naomi);
         System.out.print(roy);
+        System.out.print("naomi naomi naomi");
 
     }
 }
